@@ -17,15 +17,15 @@ And with this meaningful start-question, welcome to my absoltely beautiful prese
 			
 ### The next three days:
   
-  - I still worked with "Greenfoot"</li>
+  - I still worked with "Greenfoot"
   
-  - I hab a few task-sheets, I worked on</li>
+  - I hab a few task-sheets, I worked on
   
-  - I did things like reproduce a very simple chinese videogame</li>
+  - I did things like reproduce a very simple chinese videogame
   
-  - The tasks were definetly more coomplicated, but I did all of them</li>
+  - The tasks were definetly more coomplicated, but I did all of them
   
-  - I didn't need that much help, so Karsten and Volker also could do their actually work...:)</li>
+  - I didn't need that much help, so Karsten and Volker also could do their actually work...:)
 
 			
 ### Friday the 13th:
