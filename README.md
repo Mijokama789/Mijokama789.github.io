@@ -36,10 +36,7 @@
 			</ul></p></details>
 		</li>
 		<li> -> Well, that was the first week here.</li>
-		
-		
-		
-<li><details><summary>In conclusion:</summary>
+		<li><details><summary>In conclusion:</summary>
 			<p><ul>
 			<li>I had fun and learned interesting and also exciting things about the company.</li>
 			<li>Personally, I also can say, that my programming-skills improved a lot, what I believe is really cool.</li>
@@ -53,32 +50,9 @@
 		</li>
 	</ul>
 	<br>
-	<h3 id="clickText">Thanks for the atttention and have a nice day, everyone!</h3>
-	
-<img id="myImage" src="smiley.jpg">
+	<h3>Thanks for the atttention and have a nice day, everyone!</h3>
+	<img id="myImage" src="smiley.jpg">
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
