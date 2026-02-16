@@ -36,6 +36,17 @@
 			</ul></p></details>
 		</li>
 		<li> -> Well, that was the first week here.</li>
+		<br>
+		<li><details><summary>Monday:</summary>
+			<p><ul>
+			<li>I played a little with GitHub and created my first GitHub-page.</li>
+			<li>I transferred my HTML-file as well as my CSS-file to GitHub and now this absolutely gorgeous presentation website is available under "mijokama789.github.io".</li>
+			<li>...</li>
+			<li>...</li>
+			<li>...</li>
+			<li>...</li>
+			</ul></p></details>
+		</li>
 		<li><details><summary>In conclusion:</summary>
 			<p><ul>
 			<li>I had fun and learned interesting and also exciting things about the company.</li>
