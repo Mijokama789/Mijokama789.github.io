@@ -19,7 +19,7 @@ And with this meaningful start-question, welcome to my absoltely beautiful prese
   
   - I still worked with "Greenfoot"
   
-  - I hab a few task-sheets, I worked on
+  - I had a few task-sheets, I worked on
   
   - I did things like reproduce a very simple chinese videogame
   
