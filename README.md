@@ -62,18 +62,17 @@
 			<li>[Also I finished this perfect presetation website on GitHub:)]</li>
 			</p></ul></details>
 		</li>	
-		
-<li><details><summary>In conclusion:</summary>
-	<p><ul>
-	<li>I had fun and learned interesting and also exciting things about the company.</li>
-	<li>Personally, I also can say, that my programming-skills improved a lot, what I believe is really cool.</li>
-	<li>I had the chance to talk to experts and see, what the people here actually do.</li>
-	<li> -> I enjoyed this student intership very much, I want to thank Karsten and Volker and I definetly recommend this
-	<br>
-	to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
-	<br>
-	market-leading company like this!</li>
-	</ul></p></details>
+		<li><details><summary>In conclusion:</summary>
+			<p><ul>
+			<li>I had fun and learned interesting and also exciting things about the company.</li>
+			<li>Personally, I also can say, that my programming-skills improved a lot, what I believe is really cool.</li>
+			<li>I had the chance to talk to experts and see, what the people here actually do.</li>
+			<li> -> I enjoyed this student intership very much, I want to thank Karsten and Volker and I definetly recommend this
+			<br>
+			to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
+			<br>
+			market-leading company like this!</li>
+		</ul></p></details>
 </li>
 </ul>
 <br>
