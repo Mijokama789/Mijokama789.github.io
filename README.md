@@ -8,7 +8,7 @@
 	<br>
 	<h2>Welcome to my absolutely beautiful presentation about what I did the last two weeks!</h2>
 	<br>
-	<h3>And sorry for any grammar or spelling mistakes and for the definetly not exaggerated adjectives I described this presentation :)</h3>
+	<h3>And sorry for any grammar or spelling mistakes and for the definetly not exaggerated adjectives I described this presentation with :)</h3>
 	<br>
 	<ul>
 		<li><details><summary>First day:</summary>
