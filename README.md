@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-	<title>Hello</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
