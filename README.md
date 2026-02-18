@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
+	<title>Hello</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -36,34 +37,49 @@
 			</ul></p></details>
 		</li>
 		<li> -> Well, that was the first week here.</li>
-		<br>
-		<li><details><summary>Monday:</summary>
+		<li><details><summary>2nd Monday:</summary>
 			<p><ul>
 			<li>I played a little with GitHub and created my first GitHub-page.</li>
 			<li>I transferred my HTML-file as well as my CSS-file to GitHub and now this absolutely gorgeous presentation website is available under "mijokama789.github.io".</li>
-			<li>...</li>
-			<li>...</li>
-			<li>...</li>
-			<li>...</li>
+			<li>We still tried to get the LED-Matrix working -> we didn't made it :(</li>
+			<li>But instead I started to work on programming a very simple version of snake with some other students and azubis</li>
 			</ul></p></details>
 		</li>
-		<li><details><summary>In conclusion:</summary>
+		<li><details><summary>2nd Tuesday:</summary>
 			<p><ul>
-			<li>I had fun and learned interesting and also exciting things about the company.</li>
-			<li>Personally, I also can say, that my programming-skills improved a lot, what I believe is really cool.</li>
-			<li>I had the chance to talk to experts and see, what the people here actually do.</li>
-			<li> -> I enjoyed this student intership very much, I want to thank Karsten and Volker and I definetly recommend this
-			<br>
-			to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
-			<br>
-			market-leading company like this!</li>
+			<li>I finished my snake project -> I got it working, but didn#t now, why it was working, but with  a little help, I found the rreason</li>
+			<li>We tried to get snake to work on the LED-Matrix, well GUESS WHAT: IT STILL DIDN'T WORK!</li>
+			<li>But we were getting closer, in the meantime I explained my snake-solution another student, that is also here for a student intership</li>
 			</ul></p></details>
 		</li>
-	</ul>
+		<li><details><summary>2nd Wednesday:</summary>
+			<p><ul>
+			<li>I tried really hard to get this ******* LED-Matrix working</li>
+			<li>And: </li>
+			<li> </li>
+			<li>(Also I finished this perfect presetation website on GitHub)</li>
+			</p></ul></details>
+		</li>	
+		
+<li><details><summary>In conclusion:</summary>
+	<p><ul>
+	<li>I had fun and learned interesting and also exciting things about the company.</li>
+	<li>Personally, I also can say, that my programming-skills improved a lot, what I believe is really cool.</li>
+	<li>I had the chance to talk to experts and see, what the people here actually do.</li>
+	<li> -> I enjoyed this student intership very much, I want to thank Karsten and Volker and I definetly recommend this
 	<br>
-	<h3>Thanks for the atttention and have a nice day, everyone!</h3>
-	<img id="myImage" src="smiley.jpg">
+	to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
+	<br>
+	market-leading company like this!</li>
+	</ul></p></details>
+</li>
+</ul>
+<br>
+<h3 id="clickText">Thanks for the atttention and have a nice day, everyone!</h3>
+	
+<img id="myImage" src="smiley.jpg">
 </body>
+
 </html>
 
 
