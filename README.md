@@ -56,9 +56,9 @@
 		<li><details><summary>2nd Wednesday:</summary>
 			<p><ul>
 			<li>I tried really hard to get this ******* LED-Matrix working</li>
-			<li>And: </li>
-			<li> </li>
-			<li>(Also I finished this perfect presetation website on GitHub)</li>
+			<li>And: WE DID IT!!</li>
+			<li>So I spend about an half hour, to play Snake on the LED-Matrix and to get a full green screnn [-> didn' got it :(] </li>
+			<li>[Also I finished this perfect presetation website on GitHub:)]</li>
 			</p></ul></details>
 		</li>	
 		
