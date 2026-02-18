@@ -37,6 +37,7 @@
 			</ul></p></details>
 		</li>
 		<li> -> Well, that was the first week here.</li>
+		<br>
 		<li><details><summary>2nd Monday:</summary>
 			<p><ul>
 			<li>I played a little with GitHub and created my first GitHub-page.</li>
