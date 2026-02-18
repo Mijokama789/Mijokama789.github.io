@@ -72,8 +72,8 @@
 			to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
 			<br>
 			market-leading company like this!</li>
-		</ul></p></details>
-</li>
+			</p></ul></details>
+		</li>
 </ul>
 <br>
 <h3 id="clickText">Thanks for the atttention and have a nice day, everyone!</h3>
