@@ -72,7 +72,7 @@
 			to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
 			<br>
 			market-leading company like this!</li>
-			</p></ul></details>
+			</ul></details>
 		</li>
 </ul>
 <br>
