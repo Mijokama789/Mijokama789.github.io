@@ -9,6 +9,8 @@
 	<br>
 	<h2>Welcome to my absolutely beautiful presentation about what I did the last two weeks!</h2>
 	<br>
+	<h3>And sorry for any grammar or spelling mistakes and for the definetly not exaggerated adjectives I described this presentation :)</h3>
+	<br>
 	<ul>
 		<li><details><summary>First day:</summary>
 			<p><ul>
@@ -48,7 +50,7 @@
 		</li>
 		<li><details><summary>2nd Tuesday:</summary>
 			<p><ul>
-			<li>I finished my snake project -> I got it working, but didn#t now, why it was working, but with  a little help, I found the rreason</li>
+			<li>I finished my snake project -> I got it working, but didn't now, why it was working, but with  a little help, I found the rreason</li>
 			<li>We tried to get snake to work on the LED-Matrix, well GUESS WHAT: IT STILL DIDN'T WORK!</li>
 			<li>But we were getting closer, in the meantime I explained my snake-solution another student, that is also here for a student intership</li>
 			</ul></p></details>
