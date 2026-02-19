@@ -49,7 +49,7 @@
 		</li>
 		<li><details><summary>2nd Tuesday:</summary>
 			<p><ul>
-			<li>I finished my snake project -> I got it working, but didn't now, why it was working, but with  a little help, I found the rreason</li>
+			<li>I finished my snake project -> I got it working, but didn't now, why it was working, but with  a little help, I found the reason</li>
 			<li>We tried to get snake to work on the LED-Matrix, well GUESS WHAT: IT STILL DIDN'T WORK!</li>
 			<li>But we were getting closer, in the meantime I explained my snake-solution another student, that is also here for a student intership</li>
 			</ul></p></details>
@@ -58,7 +58,7 @@
 			<p><ul>
 			<li>I tried really hard to get this ******* LED-Matrix working</li>
 			<li>And: WE DID IT!!</li>
-			<li>So I spend about an half hour, to play Snake on the LED-Matrix and to get a full green screnn [-> didn't got it :(] </li>
+			<li>So I spend about an half hour, to play Snake on the LED-Matrix and to get a full green screen [-> didn't got it :(] </li>
 			<li>[Also I finished this perfect presetation website on GitHub:)]</li>
 			</p></ul></details>
 		</li>	
@@ -69,7 +69,7 @@
 			<li>I had the chance to talk to experts and see, what the people here actually do.</li>
 			<li> -> I enjoyed this student intership very much, I want to thank Karsten and Volker and I definetly recommend this
 			<br>
-			to anybody, who wants to learn or to know, what it is like, to poragramm really important software and working in a
+			to anybody, who wants to learn or to know, what it is like, to programm really important software and working in a
 			<br>
 			market-leading company like this!</li>
 			</ul></details>
