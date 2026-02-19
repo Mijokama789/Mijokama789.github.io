@@ -52,6 +52,7 @@
 			<li>I finished my snake project -> I got it working, but didn't now, why it was working, but with  a little help, I found the reason</li>
 			<li>We tried to get snake to work on the LED-Matrix, well GUESS WHAT: IT STILL DIDN'T WORK!</li>
 			<li>But we were getting closer, in the meantime I explained my snake-solution another student, that is also here for a student intership</li>
+			<li>I also talked to some other people here, to get stuff done, I had/have to do for my school</li>
 			</ul></p></details>
 		</li>
 		<li><details><summary>2nd Wednesday:</summary>
